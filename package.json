@@ -1,7 +1,7 @@
 {
-  "name": "sb-admin-2",
-  "title": "SB Admin 2",
-  "version": "3.3.7+1",
+  "name": "sb-admin-2-sass",
+  "title": "SB Admin 2 Sass",
+  "version": "0.0.1",
   "homepage": "http://startbootstrap.com/template-overviews/sb-admin-2",
   "author": "Start Bootstrap",
   "license": {
@@ -13,7 +13,7 @@
     "gulp": "^3.9.1",
     "gulp-clean-css": "^2.0.10",
     "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
+    "gulp-sass": "^2.3.1",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.4"
   },
